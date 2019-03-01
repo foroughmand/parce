@@ -1,0 +1,74 @@
+1	مرکز تجاری - مسکونی اندیشه (234 واحد )	مجری شهرهای جدید (اندیشه)	تهران - شهر جدید اندیشه		Andisheh Residential - Commercial Complex (234 Units)	Andisheh New Towns Constructor	Andisheh New Towns	Residential
+2	مجتمع مسکونی یاس	نهاد ریاست جمهوری	تهران - ولنجک		Yas Residential Complex	Presidency of The Islamic Republic of Iran	Tehran - Velenjak	Residential
+3	مجتمع تجاری - مسکونی کسری (18 طبقه - 108 واحد)	تعاونی کارکنان بانک سپه	تهران - دربند		Kasra Residential - Commercial Complex (108 Units)	Sepah Bank Constructing Administration	Tehran - Darband	Residential
+4	بانک کشاورزی - تیپ روستائی 6 نفره	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مناطق مختلف ایران		Keshavarzi Bank, Rural Type, For 6 Person	Keshavarzi Bank's Center of Engineering and Installations	Different places in Iran	Office Buildings
+5	بانک کشاورزی 80 متری - تیپ روستائی 4 نفره	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مناطق مختلف ایران		Keshavarzi Bank, Rural Type, For 4 Person, 80 m2	Keshavarzi Bank's Center of Engineering and Installations	Different places in Iran	Office Buildings
+6	خوابگاه دانشجویی سبزوار (نیمه تمام)	مجری طرح های عمرانی وزارت بهداشت	خراسان - سبزوار		Students Dormitory (unfinished)	Civil administrator of health ministry	Khorasan - Sabzevar	Hotel - Apartment
+7	برج های 14 طبقه مسکونی کوچک	جناب مهندس کوچک	تهران - سعادت آباد		Koochak Residential	Mr. Koochak	Tehran - Sa'adat abad	Residential
+8	مجتمع مسکونی 206 واحدی فرحزاد (کارکنان سازمان برنامه و بودجه)	تعاونی کارکنان سازمان مدیریت و برنامه ریزی	تهران - فرحزاد		Farahzad Residential Complex (206 units)	Employee cooperative MPORG	Tehran - Farahzad	Residential
+9	بانک کشاورزی شعبه مرکزی یاسوج	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	چهار محال و بختیاری - یاسوج		Central branch of Yasouj Keshavarzi bank	Keshavarzi Bank's Center of Engineering and Installations	Yasouj	Office Buildings
+10	مجتمع مسکونی سعادت آباد و گلستان کرج	تعاونی مسکن گمرک	تهران- سعادت آباد و کرج		S'adat Abad and Golestan Residential Complex	Housing cooperative custom administration	Sa'adat abad - Tehran and Karaj	Residential
+11	ساختمان مدیریت و شعبه مرکزی بانک کشاورزی اردبیل	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	اردبیل		Central Branch and the Management Office of the Keshavarzi Bank Ardabil	Keshavarzi Bank's Center of Engineering and Installations	Ardabil	Office Buildings
+12	بانک کشاورزی شعبه مرکزی ساری	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مازندران - ساری		Central Branch of the Keshavarzi Bank Sari	Keshavarzi Bank's Center of Engineering and Installations	Mazandaran - Sari	Office Buildings
+13	مدیریت بانک کشاورزی قم	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	قم		Management Office of the Ghom Keshavarzi bank	Keshavarzi Bank's Center of Engineering and Installations	Ghom	Office Buildings
+14	مجتمع مسکونی 126 واحدی عترت	موسسه عترت	تهران - اشرفی اصفهانی		Etrat Residential Complex (126 units)	Etrat co.	Tehran - Ashrafi Esfehani	Residential
+15	مجتمع مسکونی 86 واحدی همشهری	اداره مسکن کارکنان همشهری	تهران - پونک		Hamshahri Residential Complex	Housing organization of Hamshahri	Tehran - Poonak	Residential
+16	ساختمان مدیریت  و شعبه مرکزی و آمفی تئاتر  بانک کشاورزی استان آذربایجان غربی - ارومیه	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	آذربایجان غربی - ارومیه		Central Branch and the Management Office and Amphie-theatre of the Keshavarzi Bank Orumiye	Keshavarzi Bank's Center of Engineering and Installations	West Azarbayjan - Orumiye	Office Buildings
+17	بانک کشاورزی آرادان	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	اصفهان - آرادان		Aradan Keshavarzi Bank	Keshavarzi Bank's Center of Engineering and Installations	Esfehan - Aradan	Office Buildings
+18	مجتمع فرهنگی بومهن	اداره کل وزارت و ارشاد اسلامی استان تهران	تهران - بومهن		Boohmen Cultural Center	Ministry of Culture and Eslamic Guidance of Tehran	Tehran - Boomehen	Cultural Center
+19	بانک کشاورزی شعبه مرکزی دامغان	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	دامغان		Central Branch of the Keshavarzi Bank Damghan	Keshavarzi Bank's Center of Engineering and Installations	Damghan	Office Buildings
+20	چاپخانه مرکزی بانک کشاورزی طرشت	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	تهران - طرشت		Keshavarzi Bank Main printing-house Building Tarasht	Keshavarzi Bank's Center of Engineering and Installations	Tehran -Tarasht	Industrial
+21	مجتمع فرهنگی فیروزکوه	اداره کل وزارت و ارشاد اسلامی استان تهران	تهران - فیروزکوه		Firoozkooh Cultural Center	Ministry of Culture and Eslamic Guidance of Tehran	Firooz Kooh	Cultural Center
+22	مجتمع مسکونی 17 واحدی گلستان	جناب آقای اعرابی	تهران - پاسداران		Golestan Residential complex (17 Units)	Mr. Araabi	Tehran - Pasdaran	Residential
+23	بانک کشاورزی شعبه مرزن آباد	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	گیلان - مرزن آباد		MarzanAbad Keshavarzi bank	Keshavarzi Bank's Center of Engineering and Installations	Gilan - Marzanabad	Office Buildings
+24	بانک کشاورزی شعبه امام خمینی آمل	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مازندران - آمل		Amol Keshavarzi Bank - Imam Khomeyni Branch	Keshavarzi Bank's Center of Engineering and Installations	Mazandaran - Amol	Office Buildings
+25	مجتمع فرهنگی و سینمائی پردیس	اداره کل وزارت و ارشاد اسلامی استان تهران	کرج - پردیس		Pardis Cultrual and Cinema Center	Ministry of Culture and Eslamic Guidance of Tehran	Karaj	Cultural Center
+26	معماری نیروگاه کرخه	شرکت توسعه منابع آب و نیروی ایران (آب نیرو)	کرخه		Designing the Power-house of Karkheh Dam	Ab-Niro (Developing the Power and Water Sources in Iran)	Karkheh	Industrial
+27	طرح ورودی ساختمان نگهبانی مجموعه سد و نیروگاه کرخه	شرکت توسعه منابع آب و نیروی ایران (آب نیرو)	کرخه		Designing the Entrance of Karkhe Dom Complex	Ab-Niro (Developing the Power and Water Sources in Iran)	Karkheh	Industrial
+28	شعبه مرکزی بانک کشاورزی آمل	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مازندران - آمل		Keshavarzi Bank Amol	Keshavarzi Bank's Center of Engineering and Installations	Mazandaran - Amol	Office Buildings
+29	سالن چند منظوره ورزشی بابلسر	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مازندران- بابلسر		Babolsar Sport Multi Complex	Keshavarzi Bank's Center of Engineering and Installations	Mazandaran - Babolsar	Sport Comlex
+30	ساختمان چاپخانه (نشر ویژه )	بخش خصوصی	تهران- خیابان نجات الهی		Vizheh Publication Printery	Vizheh Publication	Tehran	Industrial
+31	بانک کشاورزی شعبه زیرآب	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مازندران - زیرآب		Zirab Keshavarzi Bank	Keshavarzi Bank's Center of Engineering and Installations	Mazandaran - Zirab	Office Buildings
+32	مجتمع ورزشی گوهر دشت کرج	جناب آقای سلیمانی	کرج		Gohardasht Sport Complex	Mr. Soleimani	Karaj	Sport Comlex
+33	ساختمان مدیریت شعب و شعبه مرکزی بانک کشاورزی استان کرمانشاه	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	کرمانشاه		Central Branch and the Management Administration of the Keshavarzi Bank - Kermanshah	Keshavarzi Bank's Center of Engineering and Installations	Kermanshah	Office Buildings
+34	هتل 4 ستاره بندر انزلی	شرکت خدمات پشتیبانی مهر 78	گیلان - بندر انزلی		Anzali 4-Stars Hotel	Mehr 78	Gilan - Anzali	Hotel - Apartment
+35	معماری نیروگاه سد و تونل دسترسی کارون 3	شرکت توسعه منابع آب و نیروی ایران (آب نیرو)	سد کارون 3		Designing the Power-house and the Toonel of the Karoon 3 Dam	Ab-Niro (Developing the Power and Water Sources in Iran)	Karoon 3	Industrial
+36	ساختمان مدیریت شعب و بانک کشاورزی تبریز	اداره کل مهندسی ساختمان و تاسیات بانک کشاورزی	آذربایجان شرقی - تبریز		Central Branch and the Management Administration of the Keshavarzi Bank - Tabriz	Keshavarzi Bank's Center of Engineering and Installations	East Azarbayjan - Tabriz	Office Buildings
+37	ساختمان کارخانه رینگ آلومینیومی پارس ارگ بم	شرکت رینگ پارس	بم - کرمان		Ring Pars Aluminum Factory	Ring Pars Company	Kerman - Bam	Industrial
+38	ساختمان مدیریت شعب بانک کشاورزی استان خراسان شمالی	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	خراسان شمالی - بجنورد		Central Branch and the Management Administration of the Keshavarzi Bank - Bojnord	Keshavarzi Bank's Center of Engineering and Installations	North Khorasan - Bojnord	Office Buildings
+39	ویلای اسب چین عباس آباد	جناب آقای یزدانی	مازندران - عباس آباد		Asbchin Villa	Mr. Yazdani	Mazanaran - Abbas abad	Residential
+40	مجتمع شهرک توریستی سبز	بخش خصوصی	مازندران - کجور		Green Touristy Villa Complexion	Private sector	Mazandaran - Kojour	Residential
+41	زائر سرای مشهد	جامعه الامام الصادق (ع)	خراسان رضوی - مشهد		Pilgrim - House	Jame'e Imam Sadegh	Razavi Khorasan - Mashhad	Hotel - Apartment
+42	ساختمان خوابگاهی و اسکان موقت	صنایع بین المللی دور جدید	مناطق مختلف ایران		Dormity and Temporary Habitation Building	AsarDor-Jadid International Industry	Different places in Iran	Residential
+43	مراکز تجاری	صنایع بین المللی دور جدید	مناطق مختلف ایران		Commercial Centers	AsarDor-Jadid International Industry	Different places in Iran	Commercial
+44	ساختمان اداره تعاون شهرستان های فیروزکوه - نظرآباد - رباط کریم	سازمان مسکن و شهرسازی تهران	تهران		Ta'avon Building	Tehran Building and Urban Development	Firooz Kooh and Nazar Abad and Robat Karim	Office Buildings
+45	نظارت عالیه بر کلیه ساخت و سازهای شهرهای ورامین و پاکدشت	سازمان مسکن و شهرسازی تهران	ورامین و پاکدشت		Varamin and Pakdasht Construction Oversight	Tehran Building and Urban Development	Varamin and Pakdasht	Residential
+46	ساختمان بانک کشاورزی شعبه ریگان بم	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	بم		Keshavarzi Bank - Rigan Branch	Keshavarzi Bank's Center of Engineering and Installations	Kerman - Bam	Office Buildings
+47	نظارت هتل پارسیان کرمانشاه	هتل های بین المللی پارسیان	کرمانشاه		Supervising Parsian Hotel - Kermanshah	Parsian International Hotels	Kermanshah	Hotel - Apartment
+48	مجتمع تجاری - فرهنگی و پارکینگ طبقاتی آسمان شهر اردبیل	صندوق زمین و ساختمان آسمان شهر اردبیل	آذربایجان غربی- اردبیل		Aseman Shahr Ardabil Complex	Aseman Shahr Ardabil Ground and Cunstraction Funds	Ardabil	Multi-Complex
+49	کتابخانه تیپ 4 در پارک های تهران	اداره کل وزارت و ارشاد اسلامی استان تهران	تهران		Typical Library	Ministry of Culture and Eslamic Guidance of Tehran	Tehran	Cultural Center
+50	ساختمان مدیریت شعب و شعبه مرکزی بانک سپه - خراسان شمالی	اداره مهندسی ساختمان بانک سپه	خراسان شمالی - بجنورد		Central Branch and the Management Administration of the Keshavarzi Bank - Bojnord	Keshavarzi Bank's Center of Engineering and Installations	North Khorasan - Bojnord	Office Buildings
+51	مجتمع مسکونی دروس	آقای مهندس رحمتی	تهران - دزاشیب		Daroos Residental House	 Mr. Rahmati	Tehran - Dezashib	Residential
+52	هتل 3 ستاره نواب مشهد	شرکت کارگزاران حج و زیارت	مشهد		Navab 3-Stars Hotel	Hadj and Ziyarat Kargozaran	Razavi Khorasan - Mashhad	Hotel - Apartment
+53	ویلای دکتر گلیائی	جناب آقای دکتر گلیائی	عباس آباد- گیلان		Dr. Goliaei Villa	Mr. Goliaei	Mazanaran - Abbas abad	Residential
+54	ساختمان بانک کشاورزی – شعبه راز	مدیریت استان خراسان شمالی	شهر راز - خراسان شمالی		Keshavarzi Bank - Raz Branch	Keshavarzi Bank's Center of Engineering and Installations	North Khorasan - Raz	Office Buildings
+55	مجتمع مسکونی امام حسین (ع)	شرکت بین المللی پیمانکاری استراتوس	عراق- کربلا		Imam Hossein Residential Complex	Startus International Contracting Co.	Iraq - Karbala	Residential
+56	طراحی سرای محلات	شهرداری منطقه 21 تهران	تهرانسر		Saray -e- Mahalat	Tehran Region 21 Municipality	Tehran - Tehransar	Cultural Center
+57	طراحی مجتمع بین راهی و اقامتی رفاهی بهار	شرکت مرکزی کارگزاران امور زیارتی استان تهران	بهار - همدان		Bahar Multi Complex	Hadj and Ziyarat Kargozaran	Hamedan - Bahar	Hotel - Apartment
+58	مجتمع 45 واحدی شقایق اندیشه	شرکت سهامی نوسازی و عمران استان تهران	تهران - شهر جدید اندیشه		Shaqayeq Andisheh Residential Complex (45 units)		Andisheh New Town 	Residential
+59	مجتمع 660 واحدی کاظمین	شرکت بین المللی استراتوس	کاظمین - عراق		Kazemayn Building Complex (660 units)	Startus International Contracting Co.	Iraq - Kazemayn	Residential
+60	نقشه برداری و برداشت کاخ سعد آباد	شهرداری منطقه 1 تهران	تهران - سعد آباد		Sa'd Abad Survey	Tehran Region 1 Municipality	Tehran - Sa'd Abad	Survey
+61	مجتمع مسکونی قائم (کارکنان سازمان برنامه و بودجه)	تعاونی کارکنان سازمان مدیریت و برنامه ریزی	تهران - فرحزاد		Ghaem Residential Complex (206 units)	Employee cooperative MPORG	Tehran - Ghaem Town	Residential
+62	شهرک توریستی پیشنبور	بخش خصوصی	مازندران - کلاردشت		Residential complexion Pishanboor, 300 units	Private sector	Kelardasht - Gilan	Residential
+63	ساختمان مسکونی سیمرغ	جناب آقای اعرابی	تهران - جلفا		Simorq Residential Housing	Mr. Araabi	Tehran - Jolfa	Residential
+64	ساختمان مسکونی مریخ	جناب آقای درگاهی	تهران - دولت		Merikh Residential Housing	Mr. Dargahi	Tehran - Doulat	Residential
+65	ویلای کرج	جناب آقای دکتر ضیائی	کرج		Karaj Villa	Mr. Ziaei	Karaj	Residential
+
+ردیف	نام مسابقه	کارفرما	رتبه		Competitions title	Employer	Honor	Function
+66	مسابقه ورودی سردرب بهشت زهرا	سازمان بهشت زهرا	در میان 10 رتبه برگزیده		Behesht Zahra Entrance Competition	Behesht Zahra	In 10 Winners	Industrial
+67	مسابقه مدرسه ایرانی	سازمان نوسازی مدارس	طرح برگزیده		Persian School Competition	Nosazi Madares	Mention Honor	Educational
+68	مسابقه طراحی نما موزه فرش تبریز	شرکت آفتاب شهر	در میان 10 رتبه برگزیده		Tabriz Carpet Museum Façade Competition	Aftab -e- Shahr Co.	In 10 Winners	Cultural
+69	مسابقه طراحی میدان آب اهواز	بخش خصوصی	طرح منتخب ساخت		Ahvaz Water Square Competition	Ahvaz Municipality	Construct Selection	Urban Design
+70	مسابقه میدان فولاد اهواز	جناب آقای اعرابی	طرح برگزیده		Ahvaz Foolad Square Competition	Ahvaz Municipality	Mention Honor	Urban Design
+71	مسابقه تغییر کاربری ساختمان الهیه	شرکت سهامی نوسازی و عمران استان تهران	رتبه دوم		Elahieh Office Building Competition		2nd Place	Office Buildings
+72	مسابقه طراحی ساختمان شهرداری منطقه 21 تهران	جناب آقای دکتر ضیائی	رتبه اول		Tehran Region 21 Municipality Building Competition	Tehran Region 21 Municipality	1st Place	Residential
