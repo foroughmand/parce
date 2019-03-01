@@ -7,7 +7,10 @@ $PRJ = $_GET['prj'];
 $(document).ready(function(){
 	$('#imageList img').click(function() { 
 		//console.log($(this)); 
-		$('#mainImage').prop('src', $(this).prop('src').replace('prj-s', 'prj')); 
+		//$('#mainImage').prop('src', 'https://png.pngtree.com/element_pic/17/07/21/4b7563da458e031e923608ba39c04670.jpg').load(function() {
+			$('#mainImage').attr('src', $(this).prop('src').replace('prj-s', 'prj')).load(function() {
+			}); 
+		//}); 
 	})
 	$('#imageList img').first().trigger("click");
 });
@@ -23,6 +26,10 @@ $(document).ready(function(){
 }
 .carousel {
 	padding: 0.1em 0 0.1em 0;
+}
+#mainImage {
+    max-width: 100%;
+    max-height: 100%;
 }
 </style>
 		<!-- Carousel -->
@@ -66,8 +73,8 @@ $(document).ready(function(){
 				<div class="reel small-photos" id="imageList">
 				<?php
 					//print_r($prjImages);
-					foreach ($prjImages as $cat => $prjImgs) {
-						foreach ($prjImgs as $prj => $images) {
+					//foreach ($prjImages as $cat => $prjImgs) {
+					//	foreach ($prjImgs as $prj => $images) {
 							foreach ($prjImages[$CAT][$PRJ] as $img) {
 								echo '<article>';
 								$lff = str_replace('prj', 'prj-s', $img);
@@ -75,8 +82,8 @@ $(document).ready(function(){
 								// echo "<header><h3>$cat -- $prj</h3></header>";
 								echo '</article>';
 							}
-						}
-					}
+					//	}
+					//}
 				?>
 				</div>
 			</div>
