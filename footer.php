@@ -125,15 +125,15 @@
 											<li>
 												Address:
 												<ul>
-													<li>Tehran-Iran
 													<li>No 57, West Simorgh Alley, Jolfa St.
-													<li>Telefax: +98-21-22858453, +98-21-22858452
-													<li>Postal code: 15411716731
+													<li>Tehran, Iran.
+													<li>Telefax: +98 21 22858453, +98 21 22858452
+													<li>Postal code: 15417 16731
 												<ul>
 											<li>
-													Email: info parce.ir
+													Email: info [at] congerehonar [dot] ir
 											<li>
-													Web site: www.parce.ir
+													Web site: <a href="http://www.congerehonar.ir">www.congerehonar.ir</a>
 										</ul>
 										</p>
 								</section>
@@ -154,7 +154,7 @@
 							<!-- Copyright -->
 								<div class="copyright">
 									<ul class="menu">
-										<li>&copy; PARCE. All rights reserved.</li>
+										<li>&copy; Congere Honar. All rights reserved.</li>
 										<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
 									</ul>
 								</div>

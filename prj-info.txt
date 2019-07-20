@@ -12,8 +12,7 @@
 12	بانک کشاورزی شعبه مرکزی ساری	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	مازندران - ساری		Central Branch of the Keshavarzi Bank Sari	Keshavarzi Bank's Center of Engineering and Installations	Mazandaran - Sari	Office Buildings
 13	مدیریت بانک کشاورزی قم	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	قم		Management Office of the Ghom Keshavarzi bank	Keshavarzi Bank's Center of Engineering and Installations	Ghom	Office Buildings
 14	مجتمع مسکونی 126 واحدی عترت	موسسه عترت	تهران - اشرفی اصفهانی		Etrat Residential Complex (126 units)	Etrat co.	Tehran - Ashrafi Esfehani	Residential
-15	مجتمع مسکونی 86 واحدی همشهری	اداره مسکن کارکنان همشهری	تهران - پونک		Hamshahri Residential Complex	Housing organization of Hamshahri	Tehran - Poonak	Residential
-16	ساختمان مدیریت  و شعبه مرکزی و آمفی تئاتر  بانک کشاورزی استان آذربایجان غربی - ارومیه	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	آذربایجان غربی - ارومیه		Central Branch and the Management Office and Amphie-theatre of the Keshavarzi Bank Orumiye	Keshavarzi Bank's Center of Engineering and Installations	West Azarbayjan - Orumiye	Office Buildings
+16	ساختمان مدیریت  و شعبه مرکزی و آمفی تئاتر  بانک کشاورزی استان آذربایجان غربی - ارومیه	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	آذربایجان غربی - ارومیه		Hamshahri Residental Complex	Housing Organization of Hamshahri	Tehran - Poonak	Residental	
 17	بانک کشاورزی آرادان	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	اصفهان - آرادان		Aradan Keshavarzi Bank	Keshavarzi Bank's Center of Engineering and Installations	Esfehan - Aradan	Office Buildings
 18	مجتمع فرهنگی بومهن	اداره کل وزارت و ارشاد اسلامی استان تهران	تهران - بومهن		Boohmen Cultural Center	Ministry of Culture and Eslamic Guidance of Tehran	Tehran - Boomehen	Cultural Center
 19	بانک کشاورزی شعبه مرکزی دامغان	اداره کل مهندسی ساختمان و تاسیسات بانک کشاورزی	دامغان		Central Branch of the Keshavarzi Bank Damghan	Keshavarzi Bank's Center of Engineering and Installations	Damghan	Office Buildings

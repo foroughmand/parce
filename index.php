@@ -8,19 +8,23 @@ include('header.php');
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="#" id="logo">PARCE</a></h1>
+							<!--
+							<h1><a href="#" id="logo"><img src='images/logo.png' style='width:30%;'></a></h1>
 							<hr />
 							<span class="byline">PARs ARt Congress, Consulting Engineers</span>
+							-->
 						</header>
+						<!--
 						<footer>
 							<a href="#about" class="button circled scrolly">Start</a>
 						</footer>
+						-->
 					</div>
 				
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="/">Home</a></li>
 							<!-- <li>
 								<span>Dropdown</span>
 								<ul>
@@ -51,10 +55,11 @@ include('header.php');
 			
 		<!-- Banner -->
 			<div id="about">
-				<h2>Hi. You're looking at <strong>PARCE</strong>'s homepage.</h2>
+				<h2>Hi. You're looking at <strong>Congere Honar</strong> homepage.</h2>
 				<span class="text">
 					<p>
-					This consulting engineering company founded in 1994 by the name <strong>"Iran Art Architecture Congress (IAC)"</strong>. In 2004, after changing stakeholders the company continues by <strong>"Pars Art Congress, Consulting Engineer (PARCE)"</strong>.
+					This consulting engineering company founded in 1994 by the name <strong>"Iran Art Architecture Congress (IAC)"</strong>. 
+<!--In 2004, after changing stakeholders the company continues by <strong>"Pars Art Congress, Consulting Engineer (PARCE)"</strong>. -->
 					<p>
 					The manager, founder, and the main stakeholder is <strong>Mr. Mahdi Foroughmand Araabi</strong>. He was born in Tehran 1951. He is graduated from Tehran University in master of architecture, fine art faculty in 1976.
 					<p>
@@ -154,7 +159,7 @@ include('header.php');
 				<h2>Job Request</h2>
 				<span class="text">
 					<p>
-					You are welcome to send your portofolio to parce.ir. Send your job request to [info] [at] [parce] [dot] [ir].
+					You are welcome to send your portofolio to <strong>Congere Honar</strong>. Send your job request to [info] [at] [congerehonar] [dot] [ir].
 					<p>
 				</span>
 			</div>

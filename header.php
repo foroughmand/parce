@@ -3,7 +3,7 @@ include('common.php');
 ?>
 <html>
 	<head>
-		<title>PARCE -- PARs ARt Congress, Consulting Engineers</title>
+		<title>Congere Honar</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />

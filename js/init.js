@@ -48,7 +48,8 @@
 					'normal':	{ range: '-1280', containers: 'fluid', grid: { gutters: 36 }, viewportWidth: 1140 },
 					'narrow':	{ range: '-960', containers: 'fluid', grid: { gutters: 32 } },
 					'narrower': 	{ range: '-840', containers: 'fluid', grid: { gutters: 32, collapse: true } },
-					'mobile':	{ range: '-640', containers: 'fluid', grid: { gutters: 32, collapse: true }, lockViewport: true }
+					//'mobile':	{ range: '-640', containers: 'fluid', grid: { gutters: 32, collapse: true }, lockViewport: true }
+					'mobile':	{ range: '-777', containers: 'fluid', grid: { gutters: 32, collapse: true }, lockViewport: true }
 				}
 			},
 
